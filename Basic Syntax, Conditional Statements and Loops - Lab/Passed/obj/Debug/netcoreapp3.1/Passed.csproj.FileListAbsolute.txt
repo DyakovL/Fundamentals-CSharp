@@ -1,0 +1,14 @@
+E:\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Passed\bin\Debug\netcoreapp3.1\Passed.exe
+E:\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Passed\bin\Debug\netcoreapp3.1\Passed.deps.json
+E:\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Passed\bin\Debug\netcoreapp3.1\Passed.runtimeconfig.json
+E:\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Passed\bin\Debug\netcoreapp3.1\Passed.runtimeconfig.dev.json
+E:\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Passed\bin\Debug\netcoreapp3.1\Passed.dll
+E:\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Passed\bin\Debug\netcoreapp3.1\Passed.pdb
+E:\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Passed\obj\Debug\netcoreapp3.1\Passed.csproj.AssemblyReference.cache
+E:\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Passed\obj\Debug\netcoreapp3.1\Passed.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Passed\obj\Debug\netcoreapp3.1\Passed.AssemblyInfoInputs.cache
+E:\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Passed\obj\Debug\netcoreapp3.1\Passed.AssemblyInfo.cs
+E:\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Passed\obj\Debug\netcoreapp3.1\Passed.csproj.CoreCompileInputs.cache
+E:\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Passed\obj\Debug\netcoreapp3.1\Passed.dll
+E:\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Passed\obj\Debug\netcoreapp3.1\Passed.pdb
+E:\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Passed\obj\Debug\netcoreapp3.1\Passed.genruntimeconfig.cache

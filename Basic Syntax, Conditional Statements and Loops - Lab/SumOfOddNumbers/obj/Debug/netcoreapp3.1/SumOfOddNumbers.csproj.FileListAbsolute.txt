@@ -1,0 +1,14 @@
+E:\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\SumOfOddNumbers\obj\Debug\netcoreapp3.1\SumOfOddNumbers.csproj.AssemblyReference.cache
+E:\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\SumOfOddNumbers\obj\Debug\netcoreapp3.1\SumOfOddNumbers.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\SumOfOddNumbers\obj\Debug\netcoreapp3.1\SumOfOddNumbers.AssemblyInfoInputs.cache
+E:\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\SumOfOddNumbers\obj\Debug\netcoreapp3.1\SumOfOddNumbers.AssemblyInfo.cs
+E:\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\SumOfOddNumbers\obj\Debug\netcoreapp3.1\SumOfOddNumbers.csproj.CoreCompileInputs.cache
+E:\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\SumOfOddNumbers\bin\Debug\netcoreapp3.1\SumOfOddNumbers.exe
+E:\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\SumOfOddNumbers\bin\Debug\netcoreapp3.1\SumOfOddNumbers.deps.json
+E:\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\SumOfOddNumbers\bin\Debug\netcoreapp3.1\SumOfOddNumbers.runtimeconfig.json
+E:\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\SumOfOddNumbers\bin\Debug\netcoreapp3.1\SumOfOddNumbers.runtimeconfig.dev.json
+E:\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\SumOfOddNumbers\bin\Debug\netcoreapp3.1\SumOfOddNumbers.dll
+E:\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\SumOfOddNumbers\bin\Debug\netcoreapp3.1\SumOfOddNumbers.pdb
+E:\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\SumOfOddNumbers\obj\Debug\netcoreapp3.1\SumOfOddNumbers.dll
+E:\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\SumOfOddNumbers\obj\Debug\netcoreapp3.1\SumOfOddNumbers.pdb
+E:\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\SumOfOddNumbers\obj\Debug\netcoreapp3.1\SumOfOddNumbers.genruntimeconfig.cache

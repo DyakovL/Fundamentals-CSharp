@@ -1,0 +1,14 @@
+E:\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\MonthPrinter\bin\Debug\netcoreapp3.1\MonthPrinter.exe
+E:\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\MonthPrinter\bin\Debug\netcoreapp3.1\MonthPrinter.deps.json
+E:\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\MonthPrinter\bin\Debug\netcoreapp3.1\MonthPrinter.runtimeconfig.json
+E:\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\MonthPrinter\bin\Debug\netcoreapp3.1\MonthPrinter.runtimeconfig.dev.json
+E:\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\MonthPrinter\bin\Debug\netcoreapp3.1\MonthPrinter.dll
+E:\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\MonthPrinter\bin\Debug\netcoreapp3.1\MonthPrinter.pdb
+E:\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\MonthPrinter\obj\Debug\netcoreapp3.1\MonthPrinter.csproj.AssemblyReference.cache
+E:\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\MonthPrinter\obj\Debug\netcoreapp3.1\MonthPrinter.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\MonthPrinter\obj\Debug\netcoreapp3.1\MonthPrinter.AssemblyInfoInputs.cache
+E:\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\MonthPrinter\obj\Debug\netcoreapp3.1\MonthPrinter.AssemblyInfo.cs
+E:\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\MonthPrinter\obj\Debug\netcoreapp3.1\MonthPrinter.csproj.CoreCompileInputs.cache
+E:\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\MonthPrinter\obj\Debug\netcoreapp3.1\MonthPrinter.dll
+E:\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\MonthPrinter\obj\Debug\netcoreapp3.1\MonthPrinter.pdb
+E:\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\MonthPrinter\obj\Debug\netcoreapp3.1\MonthPrinter.genruntimeconfig.cache

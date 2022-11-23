@@ -1,0 +1,14 @@
+E:\SoftUni\Fundamentals\Arrays - Lab\EvenAndOddSubtraction\bin\Debug\netcoreapp3.1\EvenAndOddSubtraction.exe
+E:\SoftUni\Fundamentals\Arrays - Lab\EvenAndOddSubtraction\bin\Debug\netcoreapp3.1\EvenAndOddSubtraction.deps.json
+E:\SoftUni\Fundamentals\Arrays - Lab\EvenAndOddSubtraction\bin\Debug\netcoreapp3.1\EvenAndOddSubtraction.runtimeconfig.json
+E:\SoftUni\Fundamentals\Arrays - Lab\EvenAndOddSubtraction\bin\Debug\netcoreapp3.1\EvenAndOddSubtraction.runtimeconfig.dev.json
+E:\SoftUni\Fundamentals\Arrays - Lab\EvenAndOddSubtraction\bin\Debug\netcoreapp3.1\EvenAndOddSubtraction.dll
+E:\SoftUni\Fundamentals\Arrays - Lab\EvenAndOddSubtraction\bin\Debug\netcoreapp3.1\EvenAndOddSubtraction.pdb
+E:\SoftUni\Fundamentals\Arrays - Lab\EvenAndOddSubtraction\obj\Debug\netcoreapp3.1\EvenAndOddSubtraction.csproj.AssemblyReference.cache
+E:\SoftUni\Fundamentals\Arrays - Lab\EvenAndOddSubtraction\obj\Debug\netcoreapp3.1\EvenAndOddSubtraction.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\Fundamentals\Arrays - Lab\EvenAndOddSubtraction\obj\Debug\netcoreapp3.1\EvenAndOddSubtraction.AssemblyInfoInputs.cache
+E:\SoftUni\Fundamentals\Arrays - Lab\EvenAndOddSubtraction\obj\Debug\netcoreapp3.1\EvenAndOddSubtraction.AssemblyInfo.cs
+E:\SoftUni\Fundamentals\Arrays - Lab\EvenAndOddSubtraction\obj\Debug\netcoreapp3.1\EvenAndOddSubtraction.csproj.CoreCompileInputs.cache
+E:\SoftUni\Fundamentals\Arrays - Lab\EvenAndOddSubtraction\obj\Debug\netcoreapp3.1\EvenAndOddSubtraction.dll
+E:\SoftUni\Fundamentals\Arrays - Lab\EvenAndOddSubtraction\obj\Debug\netcoreapp3.1\EvenAndOddSubtraction.pdb
+E:\SoftUni\Fundamentals\Arrays - Lab\EvenAndOddSubtraction\obj\Debug\netcoreapp3.1\EvenAndOddSubtraction.genruntimeconfig.cache

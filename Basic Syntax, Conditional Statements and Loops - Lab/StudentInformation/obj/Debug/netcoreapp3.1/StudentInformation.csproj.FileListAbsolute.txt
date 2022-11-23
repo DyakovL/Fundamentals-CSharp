@@ -1,0 +1,14 @@
+E:\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\StudentInformation\bin\Debug\netcoreapp3.1\StudentInformation.exe
+E:\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\StudentInformation\bin\Debug\netcoreapp3.1\StudentInformation.deps.json
+E:\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\StudentInformation\bin\Debug\netcoreapp3.1\StudentInformation.runtimeconfig.json
+E:\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\StudentInformation\bin\Debug\netcoreapp3.1\StudentInformation.runtimeconfig.dev.json
+E:\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\StudentInformation\bin\Debug\netcoreapp3.1\StudentInformation.dll
+E:\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\StudentInformation\bin\Debug\netcoreapp3.1\StudentInformation.pdb
+E:\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\StudentInformation\obj\Debug\netcoreapp3.1\StudentInformation.csproj.AssemblyReference.cache
+E:\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\StudentInformation\obj\Debug\netcoreapp3.1\StudentInformation.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\StudentInformation\obj\Debug\netcoreapp3.1\StudentInformation.AssemblyInfoInputs.cache
+E:\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\StudentInformation\obj\Debug\netcoreapp3.1\StudentInformation.AssemblyInfo.cs
+E:\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\StudentInformation\obj\Debug\netcoreapp3.1\StudentInformation.csproj.CoreCompileInputs.cache
+E:\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\StudentInformation\obj\Debug\netcoreapp3.1\StudentInformation.dll
+E:\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\StudentInformation\obj\Debug\netcoreapp3.1\StudentInformation.pdb
+E:\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\StudentInformation\obj\Debug\netcoreapp3.1\StudentInformation.genruntimeconfig.cache

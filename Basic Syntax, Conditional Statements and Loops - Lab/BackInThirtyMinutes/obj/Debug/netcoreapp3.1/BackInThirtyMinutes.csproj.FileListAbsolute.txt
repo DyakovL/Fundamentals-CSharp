@@ -1,0 +1,14 @@
+E:\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\BackInThirtyMinutes\bin\Debug\netcoreapp3.1\BackInThirtyMinutes.exe
+E:\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\BackInThirtyMinutes\bin\Debug\netcoreapp3.1\BackInThirtyMinutes.deps.json
+E:\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\BackInThirtyMinutes\bin\Debug\netcoreapp3.1\BackInThirtyMinutes.runtimeconfig.json
+E:\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\BackInThirtyMinutes\bin\Debug\netcoreapp3.1\BackInThirtyMinutes.runtimeconfig.dev.json
+E:\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\BackInThirtyMinutes\bin\Debug\netcoreapp3.1\BackInThirtyMinutes.dll
+E:\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\BackInThirtyMinutes\bin\Debug\netcoreapp3.1\BackInThirtyMinutes.pdb
+E:\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\BackInThirtyMinutes\obj\Debug\netcoreapp3.1\BackInThirtyMinutes.csproj.AssemblyReference.cache
+E:\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\BackInThirtyMinutes\obj\Debug\netcoreapp3.1\BackInThirtyMinutes.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\BackInThirtyMinutes\obj\Debug\netcoreapp3.1\BackInThirtyMinutes.AssemblyInfoInputs.cache
+E:\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\BackInThirtyMinutes\obj\Debug\netcoreapp3.1\BackInThirtyMinutes.AssemblyInfo.cs
+E:\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\BackInThirtyMinutes\obj\Debug\netcoreapp3.1\BackInThirtyMinutes.csproj.CoreCompileInputs.cache
+E:\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\BackInThirtyMinutes\obj\Debug\netcoreapp3.1\BackInThirtyMinutes.dll
+E:\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\BackInThirtyMinutes\obj\Debug\netcoreapp3.1\BackInThirtyMinutes.pdb
+E:\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\BackInThirtyMinutes\obj\Debug\netcoreapp3.1\BackInThirtyMinutes.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+E:\SoftUni\Fundamentals\Arrays - Lab\DayOfWeek\obj\Debug\netcoreapp3.1\DayOfWeek.csproj.AssemblyReference.cache
+E:\SoftUni\Fundamentals\Arrays - Lab\DayOfWeek\obj\Debug\netcoreapp3.1\DayOfWeek.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\Fundamentals\Arrays - Lab\DayOfWeek\obj\Debug\netcoreapp3.1\DayOfWeek.AssemblyInfoInputs.cache
+E:\SoftUni\Fundamentals\Arrays - Lab\DayOfWeek\obj\Debug\netcoreapp3.1\DayOfWeek.AssemblyInfo.cs
+E:\SoftUni\Fundamentals\Arrays - Lab\DayOfWeek\obj\Debug\netcoreapp3.1\DayOfWeek.csproj.CoreCompileInputs.cache
+E:\SoftUni\Fundamentals\Arrays - Lab\DayOfWeek\bin\Debug\netcoreapp3.1\DayOfWeek.exe
+E:\SoftUni\Fundamentals\Arrays - Lab\DayOfWeek\bin\Debug\netcoreapp3.1\DayOfWeek.deps.json
+E:\SoftUni\Fundamentals\Arrays - Lab\DayOfWeek\bin\Debug\netcoreapp3.1\DayOfWeek.runtimeconfig.json
+E:\SoftUni\Fundamentals\Arrays - Lab\DayOfWeek\bin\Debug\netcoreapp3.1\DayOfWeek.runtimeconfig.dev.json
+E:\SoftUni\Fundamentals\Arrays - Lab\DayOfWeek\bin\Debug\netcoreapp3.1\DayOfWeek.dll
+E:\SoftUni\Fundamentals\Arrays - Lab\DayOfWeek\bin\Debug\netcoreapp3.1\DayOfWeek.pdb
+E:\SoftUni\Fundamentals\Arrays - Lab\DayOfWeek\obj\Debug\netcoreapp3.1\DayOfWeek.dll
+E:\SoftUni\Fundamentals\Arrays - Lab\DayOfWeek\obj\Debug\netcoreapp3.1\DayOfWeek.pdb
+E:\SoftUni\Fundamentals\Arrays - Lab\DayOfWeek\obj\Debug\netcoreapp3.1\DayOfWeek.genruntimeconfig.cache

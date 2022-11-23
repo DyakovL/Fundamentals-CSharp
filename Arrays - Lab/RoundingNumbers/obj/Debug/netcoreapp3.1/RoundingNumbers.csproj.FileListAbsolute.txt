@@ -1,0 +1,14 @@
+E:\SoftUni\Fundamentals\Arrays - Lab\RoundingNumbers\obj\Debug\netcoreapp3.1\RoundingNumbers.csproj.AssemblyReference.cache
+E:\SoftUni\Fundamentals\Arrays - Lab\RoundingNumbers\obj\Debug\netcoreapp3.1\RoundingNumbers.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\Fundamentals\Arrays - Lab\RoundingNumbers\obj\Debug\netcoreapp3.1\RoundingNumbers.AssemblyInfoInputs.cache
+E:\SoftUni\Fundamentals\Arrays - Lab\RoundingNumbers\obj\Debug\netcoreapp3.1\RoundingNumbers.AssemblyInfo.cs
+E:\SoftUni\Fundamentals\Arrays - Lab\RoundingNumbers\obj\Debug\netcoreapp3.1\RoundingNumbers.csproj.CoreCompileInputs.cache
+E:\SoftUni\Fundamentals\Arrays - Lab\RoundingNumbers\bin\Debug\netcoreapp3.1\RoundingNumbers.exe
+E:\SoftUni\Fundamentals\Arrays - Lab\RoundingNumbers\bin\Debug\netcoreapp3.1\RoundingNumbers.deps.json
+E:\SoftUni\Fundamentals\Arrays - Lab\RoundingNumbers\bin\Debug\netcoreapp3.1\RoundingNumbers.runtimeconfig.json
+E:\SoftUni\Fundamentals\Arrays - Lab\RoundingNumbers\bin\Debug\netcoreapp3.1\RoundingNumbers.runtimeconfig.dev.json
+E:\SoftUni\Fundamentals\Arrays - Lab\RoundingNumbers\bin\Debug\netcoreapp3.1\RoundingNumbers.dll
+E:\SoftUni\Fundamentals\Arrays - Lab\RoundingNumbers\bin\Debug\netcoreapp3.1\RoundingNumbers.pdb
+E:\SoftUni\Fundamentals\Arrays - Lab\RoundingNumbers\obj\Debug\netcoreapp3.1\RoundingNumbers.dll
+E:\SoftUni\Fundamentals\Arrays - Lab\RoundingNumbers\obj\Debug\netcoreapp3.1\RoundingNumbers.pdb
+E:\SoftUni\Fundamentals\Arrays - Lab\RoundingNumbers\obj\Debug\netcoreapp3.1\RoundingNumbers.genruntimeconfig.cache

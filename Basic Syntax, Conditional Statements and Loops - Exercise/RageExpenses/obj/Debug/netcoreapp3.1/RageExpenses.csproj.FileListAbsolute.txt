@@ -1,0 +1,14 @@
+E:\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\RageExpenses\bin\Debug\netcoreapp3.1\RageExpenses.exe
+E:\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\RageExpenses\bin\Debug\netcoreapp3.1\RageExpenses.deps.json
+E:\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\RageExpenses\bin\Debug\netcoreapp3.1\RageExpenses.runtimeconfig.json
+E:\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\RageExpenses\bin\Debug\netcoreapp3.1\RageExpenses.runtimeconfig.dev.json
+E:\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\RageExpenses\bin\Debug\netcoreapp3.1\RageExpenses.dll
+E:\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\RageExpenses\bin\Debug\netcoreapp3.1\RageExpenses.pdb
+E:\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\RageExpenses\obj\Debug\netcoreapp3.1\RageExpenses.csproj.AssemblyReference.cache
+E:\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\RageExpenses\obj\Debug\netcoreapp3.1\RageExpenses.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\RageExpenses\obj\Debug\netcoreapp3.1\RageExpenses.AssemblyInfoInputs.cache
+E:\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\RageExpenses\obj\Debug\netcoreapp3.1\RageExpenses.AssemblyInfo.cs
+E:\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\RageExpenses\obj\Debug\netcoreapp3.1\RageExpenses.csproj.CoreCompileInputs.cache
+E:\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\RageExpenses\obj\Debug\netcoreapp3.1\RageExpenses.dll
+E:\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\RageExpenses\obj\Debug\netcoreapp3.1\RageExpenses.pdb
+E:\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\RageExpenses\obj\Debug\netcoreapp3.1\RageExpenses.genruntimeconfig.cache
