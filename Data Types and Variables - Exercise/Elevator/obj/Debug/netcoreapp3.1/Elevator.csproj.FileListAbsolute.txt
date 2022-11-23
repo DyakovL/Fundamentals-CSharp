@@ -1,0 +1,14 @@
+C:\Users\Lachezar Dyakov\source\repos\Data Types and Variables - Exercise\Elevator\bin\Debug\netcoreapp3.1\Elevator.exe
+C:\Users\Lachezar Dyakov\source\repos\Data Types and Variables - Exercise\Elevator\bin\Debug\netcoreapp3.1\Elevator.deps.json
+C:\Users\Lachezar Dyakov\source\repos\Data Types and Variables - Exercise\Elevator\bin\Debug\netcoreapp3.1\Elevator.runtimeconfig.json
+C:\Users\Lachezar Dyakov\source\repos\Data Types and Variables - Exercise\Elevator\bin\Debug\netcoreapp3.1\Elevator.runtimeconfig.dev.json
+C:\Users\Lachezar Dyakov\source\repos\Data Types and Variables - Exercise\Elevator\bin\Debug\netcoreapp3.1\Elevator.dll
+C:\Users\Lachezar Dyakov\source\repos\Data Types and Variables - Exercise\Elevator\bin\Debug\netcoreapp3.1\Elevator.pdb
+C:\Users\Lachezar Dyakov\source\repos\Data Types and Variables - Exercise\Elevator\obj\Debug\netcoreapp3.1\Elevator.csproj.AssemblyReference.cache
+C:\Users\Lachezar Dyakov\source\repos\Data Types and Variables - Exercise\Elevator\obj\Debug\netcoreapp3.1\Elevator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lachezar Dyakov\source\repos\Data Types and Variables - Exercise\Elevator\obj\Debug\netcoreapp3.1\Elevator.AssemblyInfoInputs.cache
+C:\Users\Lachezar Dyakov\source\repos\Data Types and Variables - Exercise\Elevator\obj\Debug\netcoreapp3.1\Elevator.AssemblyInfo.cs
+C:\Users\Lachezar Dyakov\source\repos\Data Types and Variables - Exercise\Elevator\obj\Debug\netcoreapp3.1\Elevator.csproj.CoreCompileInputs.cache
+C:\Users\Lachezar Dyakov\source\repos\Data Types and Variables - Exercise\Elevator\obj\Debug\netcoreapp3.1\Elevator.dll
+C:\Users\Lachezar Dyakov\source\repos\Data Types and Variables - Exercise\Elevator\obj\Debug\netcoreapp3.1\Elevator.pdb
+C:\Users\Lachezar Dyakov\source\repos\Data Types and Variables - Exercise\Elevator\obj\Debug\netcoreapp3.1\Elevator.genruntimeconfig.cache

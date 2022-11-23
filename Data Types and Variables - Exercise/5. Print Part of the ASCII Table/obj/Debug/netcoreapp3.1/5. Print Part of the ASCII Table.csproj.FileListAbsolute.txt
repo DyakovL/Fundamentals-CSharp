@@ -1,0 +1,14 @@
+C:\Users\Lachezar Dyakov\source\repos\Data Types and Variables - Exercise\5. Print Part of the ASCII Table\bin\Debug\netcoreapp3.1\5. Print Part of the ASCII Table.exe
+C:\Users\Lachezar Dyakov\source\repos\Data Types and Variables - Exercise\5. Print Part of the ASCII Table\bin\Debug\netcoreapp3.1\5. Print Part of the ASCII Table.deps.json
+C:\Users\Lachezar Dyakov\source\repos\Data Types and Variables - Exercise\5. Print Part of the ASCII Table\bin\Debug\netcoreapp3.1\5. Print Part of the ASCII Table.runtimeconfig.json
+C:\Users\Lachezar Dyakov\source\repos\Data Types and Variables - Exercise\5. Print Part of the ASCII Table\bin\Debug\netcoreapp3.1\5. Print Part of the ASCII Table.runtimeconfig.dev.json
+C:\Users\Lachezar Dyakov\source\repos\Data Types and Variables - Exercise\5. Print Part of the ASCII Table\bin\Debug\netcoreapp3.1\5. Print Part of the ASCII Table.dll
+C:\Users\Lachezar Dyakov\source\repos\Data Types and Variables - Exercise\5. Print Part of the ASCII Table\bin\Debug\netcoreapp3.1\5. Print Part of the ASCII Table.pdb
+C:\Users\Lachezar Dyakov\source\repos\Data Types and Variables - Exercise\5. Print Part of the ASCII Table\obj\Debug\netcoreapp3.1\5. Print Part of the ASCII Table.csproj.AssemblyReference.cache
+C:\Users\Lachezar Dyakov\source\repos\Data Types and Variables - Exercise\5. Print Part of the ASCII Table\obj\Debug\netcoreapp3.1\5. Print Part of the ASCII Table.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lachezar Dyakov\source\repos\Data Types and Variables - Exercise\5. Print Part of the ASCII Table\obj\Debug\netcoreapp3.1\5. Print Part of the ASCII Table.AssemblyInfoInputs.cache
+C:\Users\Lachezar Dyakov\source\repos\Data Types and Variables - Exercise\5. Print Part of the ASCII Table\obj\Debug\netcoreapp3.1\5. Print Part of the ASCII Table.AssemblyInfo.cs
+C:\Users\Lachezar Dyakov\source\repos\Data Types and Variables - Exercise\5. Print Part of the ASCII Table\obj\Debug\netcoreapp3.1\5. Print Part of the ASCII Table.csproj.CoreCompileInputs.cache
+C:\Users\Lachezar Dyakov\source\repos\Data Types and Variables - Exercise\5. Print Part of the ASCII Table\obj\Debug\netcoreapp3.1\5. Print Part of the ASCII Table.dll
+C:\Users\Lachezar Dyakov\source\repos\Data Types and Variables - Exercise\5. Print Part of the ASCII Table\obj\Debug\netcoreapp3.1\5. Print Part of the ASCII Table.pdb
+C:\Users\Lachezar Dyakov\source\repos\Data Types and Variables - Exercise\5. Print Part of the ASCII Table\obj\Debug\netcoreapp3.1\5. Print Part of the ASCII Table.genruntimeconfig.cache
