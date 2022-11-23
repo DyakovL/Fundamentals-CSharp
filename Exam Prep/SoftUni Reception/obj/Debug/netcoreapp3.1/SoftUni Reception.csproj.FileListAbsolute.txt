@@ -1,0 +1,14 @@
+C:\Users\Lachezar Dyakov\source\repos\Exam Prep\SoftUni Reception\bin\Debug\netcoreapp3.1\SoftUni Reception.exe
+C:\Users\Lachezar Dyakov\source\repos\Exam Prep\SoftUni Reception\bin\Debug\netcoreapp3.1\SoftUni Reception.deps.json
+C:\Users\Lachezar Dyakov\source\repos\Exam Prep\SoftUni Reception\bin\Debug\netcoreapp3.1\SoftUni Reception.runtimeconfig.json
+C:\Users\Lachezar Dyakov\source\repos\Exam Prep\SoftUni Reception\bin\Debug\netcoreapp3.1\SoftUni Reception.runtimeconfig.dev.json
+C:\Users\Lachezar Dyakov\source\repos\Exam Prep\SoftUni Reception\bin\Debug\netcoreapp3.1\SoftUni Reception.dll
+C:\Users\Lachezar Dyakov\source\repos\Exam Prep\SoftUni Reception\bin\Debug\netcoreapp3.1\SoftUni Reception.pdb
+C:\Users\Lachezar Dyakov\source\repos\Exam Prep\SoftUni Reception\obj\Debug\netcoreapp3.1\SoftUni Reception.csproj.AssemblyReference.cache
+C:\Users\Lachezar Dyakov\source\repos\Exam Prep\SoftUni Reception\obj\Debug\netcoreapp3.1\SoftUni Reception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lachezar Dyakov\source\repos\Exam Prep\SoftUni Reception\obj\Debug\netcoreapp3.1\SoftUni Reception.AssemblyInfoInputs.cache
+C:\Users\Lachezar Dyakov\source\repos\Exam Prep\SoftUni Reception\obj\Debug\netcoreapp3.1\SoftUni Reception.AssemblyInfo.cs
+C:\Users\Lachezar Dyakov\source\repos\Exam Prep\SoftUni Reception\obj\Debug\netcoreapp3.1\SoftUni Reception.csproj.CoreCompileInputs.cache
+C:\Users\Lachezar Dyakov\source\repos\Exam Prep\SoftUni Reception\obj\Debug\netcoreapp3.1\SoftUni Reception.dll
+C:\Users\Lachezar Dyakov\source\repos\Exam Prep\SoftUni Reception\obj\Debug\netcoreapp3.1\SoftUni Reception.pdb
+C:\Users\Lachezar Dyakov\source\repos\Exam Prep\SoftUni Reception\obj\Debug\netcoreapp3.1\SoftUni Reception.genruntimeconfig.cache

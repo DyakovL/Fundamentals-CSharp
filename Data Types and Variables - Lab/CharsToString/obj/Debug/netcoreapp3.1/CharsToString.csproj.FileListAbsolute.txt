@@ -1,0 +1,14 @@
+C:\Users\Lachezar Dyakov\source\repos\Data Types and Variables - Lab\CharsToString\bin\Debug\netcoreapp3.1\CharsToString.exe
+C:\Users\Lachezar Dyakov\source\repos\Data Types and Variables - Lab\CharsToString\bin\Debug\netcoreapp3.1\CharsToString.deps.json
+C:\Users\Lachezar Dyakov\source\repos\Data Types and Variables - Lab\CharsToString\bin\Debug\netcoreapp3.1\CharsToString.runtimeconfig.json
+C:\Users\Lachezar Dyakov\source\repos\Data Types and Variables - Lab\CharsToString\bin\Debug\netcoreapp3.1\CharsToString.runtimeconfig.dev.json
+C:\Users\Lachezar Dyakov\source\repos\Data Types and Variables - Lab\CharsToString\bin\Debug\netcoreapp3.1\CharsToString.dll
+C:\Users\Lachezar Dyakov\source\repos\Data Types and Variables - Lab\CharsToString\bin\Debug\netcoreapp3.1\CharsToString.pdb
+C:\Users\Lachezar Dyakov\source\repos\Data Types and Variables - Lab\CharsToString\obj\Debug\netcoreapp3.1\CharsToString.csproj.AssemblyReference.cache
+C:\Users\Lachezar Dyakov\source\repos\Data Types and Variables - Lab\CharsToString\obj\Debug\netcoreapp3.1\CharsToString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lachezar Dyakov\source\repos\Data Types and Variables - Lab\CharsToString\obj\Debug\netcoreapp3.1\CharsToString.AssemblyInfoInputs.cache
+C:\Users\Lachezar Dyakov\source\repos\Data Types and Variables - Lab\CharsToString\obj\Debug\netcoreapp3.1\CharsToString.AssemblyInfo.cs
+C:\Users\Lachezar Dyakov\source\repos\Data Types and Variables - Lab\CharsToString\obj\Debug\netcoreapp3.1\CharsToString.csproj.CoreCompileInputs.cache
+C:\Users\Lachezar Dyakov\source\repos\Data Types and Variables - Lab\CharsToString\obj\Debug\netcoreapp3.1\CharsToString.dll
+C:\Users\Lachezar Dyakov\source\repos\Data Types and Variables - Lab\CharsToString\obj\Debug\netcoreapp3.1\CharsToString.pdb
+C:\Users\Lachezar Dyakov\source\repos\Data Types and Variables - Lab\CharsToString\obj\Debug\netcoreapp3.1\CharsToString.genruntimeconfig.cache

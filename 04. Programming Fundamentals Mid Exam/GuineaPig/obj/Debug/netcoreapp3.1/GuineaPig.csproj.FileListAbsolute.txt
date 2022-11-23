@@ -1,0 +1,14 @@
+C:\Users\Lachezar Dyakov\source\repos\04. Programming Fundamentals Mid Exam\GuineaPig\obj\Debug\netcoreapp3.1\GuineaPig.csproj.AssemblyReference.cache
+C:\Users\Lachezar Dyakov\source\repos\04. Programming Fundamentals Mid Exam\GuineaPig\obj\Debug\netcoreapp3.1\GuineaPig.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lachezar Dyakov\source\repos\04. Programming Fundamentals Mid Exam\GuineaPig\obj\Debug\netcoreapp3.1\GuineaPig.AssemblyInfoInputs.cache
+C:\Users\Lachezar Dyakov\source\repos\04. Programming Fundamentals Mid Exam\GuineaPig\obj\Debug\netcoreapp3.1\GuineaPig.AssemblyInfo.cs
+C:\Users\Lachezar Dyakov\source\repos\04. Programming Fundamentals Mid Exam\GuineaPig\obj\Debug\netcoreapp3.1\GuineaPig.csproj.CoreCompileInputs.cache
+C:\Users\Lachezar Dyakov\source\repos\04. Programming Fundamentals Mid Exam\GuineaPig\bin\Debug\netcoreapp3.1\GuineaPig.exe
+C:\Users\Lachezar Dyakov\source\repos\04. Programming Fundamentals Mid Exam\GuineaPig\bin\Debug\netcoreapp3.1\GuineaPig.deps.json
+C:\Users\Lachezar Dyakov\source\repos\04. Programming Fundamentals Mid Exam\GuineaPig\bin\Debug\netcoreapp3.1\GuineaPig.runtimeconfig.json
+C:\Users\Lachezar Dyakov\source\repos\04. Programming Fundamentals Mid Exam\GuineaPig\bin\Debug\netcoreapp3.1\GuineaPig.runtimeconfig.dev.json
+C:\Users\Lachezar Dyakov\source\repos\04. Programming Fundamentals Mid Exam\GuineaPig\bin\Debug\netcoreapp3.1\GuineaPig.dll
+C:\Users\Lachezar Dyakov\source\repos\04. Programming Fundamentals Mid Exam\GuineaPig\bin\Debug\netcoreapp3.1\GuineaPig.pdb
+C:\Users\Lachezar Dyakov\source\repos\04. Programming Fundamentals Mid Exam\GuineaPig\obj\Debug\netcoreapp3.1\GuineaPig.dll
+C:\Users\Lachezar Dyakov\source\repos\04. Programming Fundamentals Mid Exam\GuineaPig\obj\Debug\netcoreapp3.1\GuineaPig.pdb
+C:\Users\Lachezar Dyakov\source\repos\04. Programming Fundamentals Mid Exam\GuineaPig\obj\Debug\netcoreapp3.1\GuineaPig.genruntimeconfig.cache

@@ -1,0 +1,5 @@
+C:\Users\Lachezar Dyakov\source\repos\Methods - Lab\SignofIntegerNumbers\obj\Debug\netcoreapp3.1\SignofIntegerNumbers.csproj.AssemblyReference.cache
+C:\Users\Lachezar Dyakov\source\repos\Methods - Lab\SignofIntegerNumbers\obj\Debug\netcoreapp3.1\SignofIntegerNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lachezar Dyakov\source\repos\Methods - Lab\SignofIntegerNumbers\obj\Debug\netcoreapp3.1\SignofIntegerNumbers.AssemblyInfoInputs.cache
+C:\Users\Lachezar Dyakov\source\repos\Methods - Lab\SignofIntegerNumbers\obj\Debug\netcoreapp3.1\SignofIntegerNumbers.AssemblyInfo.cs
+C:\Users\Lachezar Dyakov\source\repos\Methods - Lab\SignofIntegerNumbers\obj\Debug\netcoreapp3.1\SignofIntegerNumbers.csproj.CoreCompileInputs.cache

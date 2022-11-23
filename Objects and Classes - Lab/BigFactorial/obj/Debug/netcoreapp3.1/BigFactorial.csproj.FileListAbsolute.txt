@@ -1,0 +1,14 @@
+C:\Users\Lachezar Dyakov\source\repos\Objects and Classes - Lab\BigFactorial\bin\Debug\netcoreapp3.1\BigFactorial.exe
+C:\Users\Lachezar Dyakov\source\repos\Objects and Classes - Lab\BigFactorial\bin\Debug\netcoreapp3.1\BigFactorial.deps.json
+C:\Users\Lachezar Dyakov\source\repos\Objects and Classes - Lab\BigFactorial\bin\Debug\netcoreapp3.1\BigFactorial.runtimeconfig.json
+C:\Users\Lachezar Dyakov\source\repos\Objects and Classes - Lab\BigFactorial\bin\Debug\netcoreapp3.1\BigFactorial.runtimeconfig.dev.json
+C:\Users\Lachezar Dyakov\source\repos\Objects and Classes - Lab\BigFactorial\bin\Debug\netcoreapp3.1\BigFactorial.dll
+C:\Users\Lachezar Dyakov\source\repos\Objects and Classes - Lab\BigFactorial\bin\Debug\netcoreapp3.1\BigFactorial.pdb
+C:\Users\Lachezar Dyakov\source\repos\Objects and Classes - Lab\BigFactorial\obj\Debug\netcoreapp3.1\BigFactorial.csproj.AssemblyReference.cache
+C:\Users\Lachezar Dyakov\source\repos\Objects and Classes - Lab\BigFactorial\obj\Debug\netcoreapp3.1\BigFactorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lachezar Dyakov\source\repos\Objects and Classes - Lab\BigFactorial\obj\Debug\netcoreapp3.1\BigFactorial.AssemblyInfoInputs.cache
+C:\Users\Lachezar Dyakov\source\repos\Objects and Classes - Lab\BigFactorial\obj\Debug\netcoreapp3.1\BigFactorial.AssemblyInfo.cs
+C:\Users\Lachezar Dyakov\source\repos\Objects and Classes - Lab\BigFactorial\obj\Debug\netcoreapp3.1\BigFactorial.csproj.CoreCompileInputs.cache
+C:\Users\Lachezar Dyakov\source\repos\Objects and Classes - Lab\BigFactorial\obj\Debug\netcoreapp3.1\BigFactorial.dll
+C:\Users\Lachezar Dyakov\source\repos\Objects and Classes - Lab\BigFactorial\obj\Debug\netcoreapp3.1\BigFactorial.pdb
+C:\Users\Lachezar Dyakov\source\repos\Objects and Classes - Lab\BigFactorial\obj\Debug\netcoreapp3.1\BigFactorial.genruntimeconfig.cache

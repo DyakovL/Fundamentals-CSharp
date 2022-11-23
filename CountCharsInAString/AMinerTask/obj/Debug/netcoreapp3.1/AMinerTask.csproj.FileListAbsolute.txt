@@ -1,0 +1,14 @@
+C:\Users\Lachezar Dyakov\source\repos\CountCharsInAString\AMinerTask\bin\Debug\netcoreapp3.1\AMinerTask.exe
+C:\Users\Lachezar Dyakov\source\repos\CountCharsInAString\AMinerTask\bin\Debug\netcoreapp3.1\AMinerTask.deps.json
+C:\Users\Lachezar Dyakov\source\repos\CountCharsInAString\AMinerTask\bin\Debug\netcoreapp3.1\AMinerTask.runtimeconfig.json
+C:\Users\Lachezar Dyakov\source\repos\CountCharsInAString\AMinerTask\bin\Debug\netcoreapp3.1\AMinerTask.runtimeconfig.dev.json
+C:\Users\Lachezar Dyakov\source\repos\CountCharsInAString\AMinerTask\bin\Debug\netcoreapp3.1\AMinerTask.dll
+C:\Users\Lachezar Dyakov\source\repos\CountCharsInAString\AMinerTask\bin\Debug\netcoreapp3.1\AMinerTask.pdb
+C:\Users\Lachezar Dyakov\source\repos\CountCharsInAString\AMinerTask\obj\Debug\netcoreapp3.1\AMinerTask.csproj.AssemblyReference.cache
+C:\Users\Lachezar Dyakov\source\repos\CountCharsInAString\AMinerTask\obj\Debug\netcoreapp3.1\AMinerTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lachezar Dyakov\source\repos\CountCharsInAString\AMinerTask\obj\Debug\netcoreapp3.1\AMinerTask.AssemblyInfoInputs.cache
+C:\Users\Lachezar Dyakov\source\repos\CountCharsInAString\AMinerTask\obj\Debug\netcoreapp3.1\AMinerTask.AssemblyInfo.cs
+C:\Users\Lachezar Dyakov\source\repos\CountCharsInAString\AMinerTask\obj\Debug\netcoreapp3.1\AMinerTask.csproj.CoreCompileInputs.cache
+C:\Users\Lachezar Dyakov\source\repos\CountCharsInAString\AMinerTask\obj\Debug\netcoreapp3.1\AMinerTask.dll
+C:\Users\Lachezar Dyakov\source\repos\CountCharsInAString\AMinerTask\obj\Debug\netcoreapp3.1\AMinerTask.pdb
+C:\Users\Lachezar Dyakov\source\repos\CountCharsInAString\AMinerTask\obj\Debug\netcoreapp3.1\AMinerTask.genruntimeconfig.cache

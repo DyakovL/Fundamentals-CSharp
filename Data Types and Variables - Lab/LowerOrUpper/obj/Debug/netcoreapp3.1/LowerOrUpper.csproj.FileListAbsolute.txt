@@ -1,0 +1,14 @@
+C:\Users\Lachezar Dyakov\source\repos\Data Types and Variables - Lab\LowerOrUpper\bin\Debug\netcoreapp3.1\LowerOrUpper.exe
+C:\Users\Lachezar Dyakov\source\repos\Data Types and Variables - Lab\LowerOrUpper\bin\Debug\netcoreapp3.1\LowerOrUpper.deps.json
+C:\Users\Lachezar Dyakov\source\repos\Data Types and Variables - Lab\LowerOrUpper\bin\Debug\netcoreapp3.1\LowerOrUpper.runtimeconfig.json
+C:\Users\Lachezar Dyakov\source\repos\Data Types and Variables - Lab\LowerOrUpper\bin\Debug\netcoreapp3.1\LowerOrUpper.runtimeconfig.dev.json
+C:\Users\Lachezar Dyakov\source\repos\Data Types and Variables - Lab\LowerOrUpper\bin\Debug\netcoreapp3.1\LowerOrUpper.dll
+C:\Users\Lachezar Dyakov\source\repos\Data Types and Variables - Lab\LowerOrUpper\bin\Debug\netcoreapp3.1\LowerOrUpper.pdb
+C:\Users\Lachezar Dyakov\source\repos\Data Types and Variables - Lab\LowerOrUpper\obj\Debug\netcoreapp3.1\LowerOrUpper.csproj.AssemblyReference.cache
+C:\Users\Lachezar Dyakov\source\repos\Data Types and Variables - Lab\LowerOrUpper\obj\Debug\netcoreapp3.1\LowerOrUpper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lachezar Dyakov\source\repos\Data Types and Variables - Lab\LowerOrUpper\obj\Debug\netcoreapp3.1\LowerOrUpper.AssemblyInfoInputs.cache
+C:\Users\Lachezar Dyakov\source\repos\Data Types and Variables - Lab\LowerOrUpper\obj\Debug\netcoreapp3.1\LowerOrUpper.AssemblyInfo.cs
+C:\Users\Lachezar Dyakov\source\repos\Data Types and Variables - Lab\LowerOrUpper\obj\Debug\netcoreapp3.1\LowerOrUpper.csproj.CoreCompileInputs.cache
+C:\Users\Lachezar Dyakov\source\repos\Data Types and Variables - Lab\LowerOrUpper\obj\Debug\netcoreapp3.1\LowerOrUpper.dll
+C:\Users\Lachezar Dyakov\source\repos\Data Types and Variables - Lab\LowerOrUpper\obj\Debug\netcoreapp3.1\LowerOrUpper.pdb
+C:\Users\Lachezar Dyakov\source\repos\Data Types and Variables - Lab\LowerOrUpper\obj\Debug\netcoreapp3.1\LowerOrUpper.genruntimeconfig.cache

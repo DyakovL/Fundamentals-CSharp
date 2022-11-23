@@ -1,0 +1,14 @@
+C:\Users\Lachezar Dyakov\source\repos\Programming Fundamentals Mid Exam - 23 October 2022\CoffeeLoverZero\bin\Debug\netcoreapp3.1\CoffeeLoverZero.exe
+C:\Users\Lachezar Dyakov\source\repos\Programming Fundamentals Mid Exam - 23 October 2022\CoffeeLoverZero\bin\Debug\netcoreapp3.1\CoffeeLoverZero.deps.json
+C:\Users\Lachezar Dyakov\source\repos\Programming Fundamentals Mid Exam - 23 October 2022\CoffeeLoverZero\bin\Debug\netcoreapp3.1\CoffeeLoverZero.runtimeconfig.json
+C:\Users\Lachezar Dyakov\source\repos\Programming Fundamentals Mid Exam - 23 October 2022\CoffeeLoverZero\bin\Debug\netcoreapp3.1\CoffeeLoverZero.runtimeconfig.dev.json
+C:\Users\Lachezar Dyakov\source\repos\Programming Fundamentals Mid Exam - 23 October 2022\CoffeeLoverZero\bin\Debug\netcoreapp3.1\CoffeeLoverZero.dll
+C:\Users\Lachezar Dyakov\source\repos\Programming Fundamentals Mid Exam - 23 October 2022\CoffeeLoverZero\bin\Debug\netcoreapp3.1\CoffeeLoverZero.pdb
+C:\Users\Lachezar Dyakov\source\repos\Programming Fundamentals Mid Exam - 23 October 2022\CoffeeLoverZero\obj\Debug\netcoreapp3.1\CoffeeLoverZero.csproj.AssemblyReference.cache
+C:\Users\Lachezar Dyakov\source\repos\Programming Fundamentals Mid Exam - 23 October 2022\CoffeeLoverZero\obj\Debug\netcoreapp3.1\CoffeeLoverZero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lachezar Dyakov\source\repos\Programming Fundamentals Mid Exam - 23 October 2022\CoffeeLoverZero\obj\Debug\netcoreapp3.1\CoffeeLoverZero.AssemblyInfoInputs.cache
+C:\Users\Lachezar Dyakov\source\repos\Programming Fundamentals Mid Exam - 23 October 2022\CoffeeLoverZero\obj\Debug\netcoreapp3.1\CoffeeLoverZero.AssemblyInfo.cs
+C:\Users\Lachezar Dyakov\source\repos\Programming Fundamentals Mid Exam - 23 October 2022\CoffeeLoverZero\obj\Debug\netcoreapp3.1\CoffeeLoverZero.csproj.CoreCompileInputs.cache
+C:\Users\Lachezar Dyakov\source\repos\Programming Fundamentals Mid Exam - 23 October 2022\CoffeeLoverZero\obj\Debug\netcoreapp3.1\CoffeeLoverZero.dll
+C:\Users\Lachezar Dyakov\source\repos\Programming Fundamentals Mid Exam - 23 October 2022\CoffeeLoverZero\obj\Debug\netcoreapp3.1\CoffeeLoverZero.pdb
+C:\Users\Lachezar Dyakov\source\repos\Programming Fundamentals Mid Exam - 23 October 2022\CoffeeLoverZero\obj\Debug\netcoreapp3.1\CoffeeLoverZero.genruntimeconfig.cache

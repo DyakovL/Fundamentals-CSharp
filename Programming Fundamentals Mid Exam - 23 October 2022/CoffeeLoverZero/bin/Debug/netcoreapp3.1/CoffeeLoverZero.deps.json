@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CoffeeLoverZero/1.0.0": {
+        "runtime": {
+          "CoffeeLoverZero.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CoffeeLoverZero/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

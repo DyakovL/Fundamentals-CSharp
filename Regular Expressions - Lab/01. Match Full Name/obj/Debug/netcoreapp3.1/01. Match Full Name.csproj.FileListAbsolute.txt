@@ -1,0 +1,14 @@
+C:\Users\Lachezar Dyakov\source\repos\Regular Expressions - Lab\01. Match Full Name\bin\Debug\netcoreapp3.1\01. Match Full Name.exe
+C:\Users\Lachezar Dyakov\source\repos\Regular Expressions - Lab\01. Match Full Name\bin\Debug\netcoreapp3.1\01. Match Full Name.deps.json
+C:\Users\Lachezar Dyakov\source\repos\Regular Expressions - Lab\01. Match Full Name\bin\Debug\netcoreapp3.1\01. Match Full Name.runtimeconfig.json
+C:\Users\Lachezar Dyakov\source\repos\Regular Expressions - Lab\01. Match Full Name\bin\Debug\netcoreapp3.1\01. Match Full Name.runtimeconfig.dev.json
+C:\Users\Lachezar Dyakov\source\repos\Regular Expressions - Lab\01. Match Full Name\bin\Debug\netcoreapp3.1\01. Match Full Name.dll
+C:\Users\Lachezar Dyakov\source\repos\Regular Expressions - Lab\01. Match Full Name\bin\Debug\netcoreapp3.1\01. Match Full Name.pdb
+C:\Users\Lachezar Dyakov\source\repos\Regular Expressions - Lab\01. Match Full Name\obj\Debug\netcoreapp3.1\01. Match Full Name.csproj.AssemblyReference.cache
+C:\Users\Lachezar Dyakov\source\repos\Regular Expressions - Lab\01. Match Full Name\obj\Debug\netcoreapp3.1\01. Match Full Name.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lachezar Dyakov\source\repos\Regular Expressions - Lab\01. Match Full Name\obj\Debug\netcoreapp3.1\01. Match Full Name.AssemblyInfoInputs.cache
+C:\Users\Lachezar Dyakov\source\repos\Regular Expressions - Lab\01. Match Full Name\obj\Debug\netcoreapp3.1\01. Match Full Name.AssemblyInfo.cs
+C:\Users\Lachezar Dyakov\source\repos\Regular Expressions - Lab\01. Match Full Name\obj\Debug\netcoreapp3.1\01. Match Full Name.csproj.CoreCompileInputs.cache
+C:\Users\Lachezar Dyakov\source\repos\Regular Expressions - Lab\01. Match Full Name\obj\Debug\netcoreapp3.1\01. Match Full Name.dll
+C:\Users\Lachezar Dyakov\source\repos\Regular Expressions - Lab\01. Match Full Name\obj\Debug\netcoreapp3.1\01. Match Full Name.pdb
+C:\Users\Lachezar Dyakov\source\repos\Regular Expressions - Lab\01. Match Full Name\obj\Debug\netcoreapp3.1\01. Match Full Name.genruntimeconfig.cache

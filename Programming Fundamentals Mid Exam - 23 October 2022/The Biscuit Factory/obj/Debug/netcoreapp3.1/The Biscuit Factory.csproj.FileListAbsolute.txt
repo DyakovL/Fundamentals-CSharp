@@ -1,0 +1,14 @@
+C:\Users\Lachezar Dyakov\source\repos\Programming Fundamentals Mid Exam - 23 October 2022\The Biscuit Factory\obj\Debug\netcoreapp3.1\The Biscuit Factory.csproj.AssemblyReference.cache
+C:\Users\Lachezar Dyakov\source\repos\Programming Fundamentals Mid Exam - 23 October 2022\The Biscuit Factory\obj\Debug\netcoreapp3.1\The Biscuit Factory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lachezar Dyakov\source\repos\Programming Fundamentals Mid Exam - 23 October 2022\The Biscuit Factory\obj\Debug\netcoreapp3.1\The Biscuit Factory.AssemblyInfoInputs.cache
+C:\Users\Lachezar Dyakov\source\repos\Programming Fundamentals Mid Exam - 23 October 2022\The Biscuit Factory\obj\Debug\netcoreapp3.1\The Biscuit Factory.AssemblyInfo.cs
+C:\Users\Lachezar Dyakov\source\repos\Programming Fundamentals Mid Exam - 23 October 2022\The Biscuit Factory\obj\Debug\netcoreapp3.1\The Biscuit Factory.csproj.CoreCompileInputs.cache
+C:\Users\Lachezar Dyakov\source\repos\Programming Fundamentals Mid Exam - 23 October 2022\The Biscuit Factory\bin\Debug\netcoreapp3.1\The Biscuit Factory.exe
+C:\Users\Lachezar Dyakov\source\repos\Programming Fundamentals Mid Exam - 23 October 2022\The Biscuit Factory\bin\Debug\netcoreapp3.1\The Biscuit Factory.deps.json
+C:\Users\Lachezar Dyakov\source\repos\Programming Fundamentals Mid Exam - 23 October 2022\The Biscuit Factory\bin\Debug\netcoreapp3.1\The Biscuit Factory.runtimeconfig.json
+C:\Users\Lachezar Dyakov\source\repos\Programming Fundamentals Mid Exam - 23 October 2022\The Biscuit Factory\bin\Debug\netcoreapp3.1\The Biscuit Factory.runtimeconfig.dev.json
+C:\Users\Lachezar Dyakov\source\repos\Programming Fundamentals Mid Exam - 23 October 2022\The Biscuit Factory\bin\Debug\netcoreapp3.1\The Biscuit Factory.dll
+C:\Users\Lachezar Dyakov\source\repos\Programming Fundamentals Mid Exam - 23 October 2022\The Biscuit Factory\bin\Debug\netcoreapp3.1\The Biscuit Factory.pdb
+C:\Users\Lachezar Dyakov\source\repos\Programming Fundamentals Mid Exam - 23 October 2022\The Biscuit Factory\obj\Debug\netcoreapp3.1\The Biscuit Factory.dll
+C:\Users\Lachezar Dyakov\source\repos\Programming Fundamentals Mid Exam - 23 October 2022\The Biscuit Factory\obj\Debug\netcoreapp3.1\The Biscuit Factory.pdb
+C:\Users\Lachezar Dyakov\source\repos\Programming Fundamentals Mid Exam - 23 October 2022\The Biscuit Factory\obj\Debug\netcoreapp3.1\The Biscuit Factory.genruntimeconfig.cache

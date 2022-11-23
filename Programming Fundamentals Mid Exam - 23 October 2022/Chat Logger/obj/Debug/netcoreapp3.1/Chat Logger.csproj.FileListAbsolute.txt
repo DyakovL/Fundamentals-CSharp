@@ -1,0 +1,14 @@
+C:\Users\Lachezar Dyakov\source\repos\Programming Fundamentals Mid Exam - 23 October 2022\Chat Logger\bin\Debug\netcoreapp3.1\Chat Logger.exe
+C:\Users\Lachezar Dyakov\source\repos\Programming Fundamentals Mid Exam - 23 October 2022\Chat Logger\bin\Debug\netcoreapp3.1\Chat Logger.deps.json
+C:\Users\Lachezar Dyakov\source\repos\Programming Fundamentals Mid Exam - 23 October 2022\Chat Logger\bin\Debug\netcoreapp3.1\Chat Logger.runtimeconfig.json
+C:\Users\Lachezar Dyakov\source\repos\Programming Fundamentals Mid Exam - 23 October 2022\Chat Logger\bin\Debug\netcoreapp3.1\Chat Logger.runtimeconfig.dev.json
+C:\Users\Lachezar Dyakov\source\repos\Programming Fundamentals Mid Exam - 23 October 2022\Chat Logger\bin\Debug\netcoreapp3.1\Chat Logger.dll
+C:\Users\Lachezar Dyakov\source\repos\Programming Fundamentals Mid Exam - 23 October 2022\Chat Logger\bin\Debug\netcoreapp3.1\Chat Logger.pdb
+C:\Users\Lachezar Dyakov\source\repos\Programming Fundamentals Mid Exam - 23 October 2022\Chat Logger\obj\Debug\netcoreapp3.1\Chat Logger.csproj.AssemblyReference.cache
+C:\Users\Lachezar Dyakov\source\repos\Programming Fundamentals Mid Exam - 23 October 2022\Chat Logger\obj\Debug\netcoreapp3.1\Chat Logger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lachezar Dyakov\source\repos\Programming Fundamentals Mid Exam - 23 October 2022\Chat Logger\obj\Debug\netcoreapp3.1\Chat Logger.AssemblyInfoInputs.cache
+C:\Users\Lachezar Dyakov\source\repos\Programming Fundamentals Mid Exam - 23 October 2022\Chat Logger\obj\Debug\netcoreapp3.1\Chat Logger.AssemblyInfo.cs
+C:\Users\Lachezar Dyakov\source\repos\Programming Fundamentals Mid Exam - 23 October 2022\Chat Logger\obj\Debug\netcoreapp3.1\Chat Logger.csproj.CoreCompileInputs.cache
+C:\Users\Lachezar Dyakov\source\repos\Programming Fundamentals Mid Exam - 23 October 2022\Chat Logger\obj\Debug\netcoreapp3.1\Chat Logger.dll
+C:\Users\Lachezar Dyakov\source\repos\Programming Fundamentals Mid Exam - 23 October 2022\Chat Logger\obj\Debug\netcoreapp3.1\Chat Logger.pdb
+C:\Users\Lachezar Dyakov\source\repos\Programming Fundamentals Mid Exam - 23 October 2022\Chat Logger\obj\Debug\netcoreapp3.1\Chat Logger.genruntimeconfig.cache

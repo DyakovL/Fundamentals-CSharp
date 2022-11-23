@@ -1,0 +1,14 @@
+C:\Users\Lachezar Dyakov\source\repos\04. Programming Fundamentals Mid Exam\MOvingTasrget\bin\Debug\netcoreapp3.1\MOvingTasrget.exe
+C:\Users\Lachezar Dyakov\source\repos\04. Programming Fundamentals Mid Exam\MOvingTasrget\bin\Debug\netcoreapp3.1\MOvingTasrget.deps.json
+C:\Users\Lachezar Dyakov\source\repos\04. Programming Fundamentals Mid Exam\MOvingTasrget\bin\Debug\netcoreapp3.1\MOvingTasrget.runtimeconfig.json
+C:\Users\Lachezar Dyakov\source\repos\04. Programming Fundamentals Mid Exam\MOvingTasrget\bin\Debug\netcoreapp3.1\MOvingTasrget.runtimeconfig.dev.json
+C:\Users\Lachezar Dyakov\source\repos\04. Programming Fundamentals Mid Exam\MOvingTasrget\bin\Debug\netcoreapp3.1\MOvingTasrget.dll
+C:\Users\Lachezar Dyakov\source\repos\04. Programming Fundamentals Mid Exam\MOvingTasrget\bin\Debug\netcoreapp3.1\MOvingTasrget.pdb
+C:\Users\Lachezar Dyakov\source\repos\04. Programming Fundamentals Mid Exam\MOvingTasrget\obj\Debug\netcoreapp3.1\MOvingTasrget.csproj.AssemblyReference.cache
+C:\Users\Lachezar Dyakov\source\repos\04. Programming Fundamentals Mid Exam\MOvingTasrget\obj\Debug\netcoreapp3.1\MOvingTasrget.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lachezar Dyakov\source\repos\04. Programming Fundamentals Mid Exam\MOvingTasrget\obj\Debug\netcoreapp3.1\MOvingTasrget.AssemblyInfoInputs.cache
+C:\Users\Lachezar Dyakov\source\repos\04. Programming Fundamentals Mid Exam\MOvingTasrget\obj\Debug\netcoreapp3.1\MOvingTasrget.AssemblyInfo.cs
+C:\Users\Lachezar Dyakov\source\repos\04. Programming Fundamentals Mid Exam\MOvingTasrget\obj\Debug\netcoreapp3.1\MOvingTasrget.csproj.CoreCompileInputs.cache
+C:\Users\Lachezar Dyakov\source\repos\04. Programming Fundamentals Mid Exam\MOvingTasrget\obj\Debug\netcoreapp3.1\MOvingTasrget.dll
+C:\Users\Lachezar Dyakov\source\repos\04. Programming Fundamentals Mid Exam\MOvingTasrget\obj\Debug\netcoreapp3.1\MOvingTasrget.pdb
+C:\Users\Lachezar Dyakov\source\repos\04. Programming Fundamentals Mid Exam\MOvingTasrget\obj\Debug\netcoreapp3.1\MOvingTasrget.genruntimeconfig.cache
